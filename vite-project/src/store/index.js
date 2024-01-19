@@ -6,15 +6,15 @@ export default createStore({
   state: {
     contacts: [
       {
-        name: 'Gérard',
+        name: 'Kai',
         number: '0808080808'
       },
       {
-        name: 'Sylvie',
+        name: 'Lucas',
         number: '0707070707'
       },
       {
-        name: 'Estéban',
+        name: 'Donovan',
         number: '0606060606'
       }
     ],

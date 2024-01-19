@@ -90,7 +90,7 @@ export default {
         font-size: 20px;
         width: 250px;
         margin: 10px auto;
-        color: orange;
+        color: rgba(114, 20, 92, 0.49);
         height: 50px;
     }
 
@@ -106,7 +106,7 @@ export default {
     }
 
     .key-pad {
-        border: 2px solid orange;
+        border: 2px solid rgb(18, 17, 15);
         padding: 3em 2em;
         border-radius: 10px;
         display: flex;
@@ -118,7 +118,7 @@ export default {
     }
     .submit-btn {
         border: 2px solid white;
-        background: orange;
+        background: rgb(0, 17, 255);
         border-radius: 50px;
         width: 150px;
         height: 50px;
@@ -130,12 +130,12 @@ export default {
 
     .submit-btn:hover {
         background: white;
-        border: 2px solid orange;
+        border: 2px solid rgb(15, 14, 12);
         cursor: pointer;
     }
 
     .submit-btn:hover i {
-        color: orange;
+        color: rgb(0, 234, 255);
         cursor: pointer;
     }
 

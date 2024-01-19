@@ -20,7 +20,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #ff0707;
   width: 390px;
   height: 760px;
   margin: 2vh auto;
@@ -28,9 +28,9 @@
   flex-direction: column;
   align-items: center;
   border-radius: 20px;
-  border: 5px solid black;
-  border-top: 10px solid black;
-  border-bottom: 25px solid black;
+  border: 25px solid rgb(239, 6, 6);
+  border-top: 10px solid rgb(255, 0, 0);
+  border-bottom: 25px solid rgb(255, 0, 0);
 }
 
 nav {

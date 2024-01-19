@@ -91,9 +91,9 @@ export default {
   }
 
   .contact {
-    background: orange;
-    box-shadow: 0 8px 16px -2px rgba(0 0 0 / .2);
-    color: white;
+    background: rgb(14, 104, 222);
+    box-shadow: 0 8px 16px -2px rgba(247, 4, 4, 0.2);
+    color: rgb(13, 42, 92);
     border-radius: 8px;
     width: 90%;
     height: 80px;
